@@ -1,0 +1,248 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.spanelement {
+    color: blue;
+    font-weight: bold;
+}
+
+.food-munch-logo {
+    width: 79px;
+    height: 70px;
+}
+
+#navItem1 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem1:hover {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+#navItem2:hover {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+#navItem3:hover {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+#navItem4:hover {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+#navItem1:hover {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+#navItem1:hover {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+#navItem5:hover {
+    background-color: white;
+    color: black;
+    border-radius: 5px;
+}
+
+#navItem2 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: white;
+    font-family: "Roboto";
+}
+
+#navItem5 {
+    color: white;
+    font-family: "Roboto";
+}
+
+.nav-para {
+    font-size: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    color: white;
+}
+
+.banner-section-bg-container {
+    background-image: url("https://blog.hyperiondev.com/wp-content/uploads/2017/09/blog.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 45px;
+    font-weight: bold;
+}
+
+.banner-caption {
+    color: #f5f7fa;
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: Bold;
+}
+
+.custom-button {
+    color: white;
+    background-image: linear-gradient(blue, black);
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 8px;
+    border-color: white;
+    margin-right: 10px;
+}
+
+.custom-outline-button {
+    color: white;
+    background-image: linear-gradient(blue, black);
+
+    width: 130px;
+    height: 45px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 8px;
+    border-color: white;
+}
+
+.span-object {
+    color: blue;
+    font-weight: bold;
+}
+
+.aboutsection-card {
+    padding: 24px;
+}
+
+.aboutheading {
+    font-size: 30px;
+    padding-top: 20px;
+    font-family: Roboto;
+    font-weight: bold;
+    color: blue;
+}
+
+.aboutparagraph {
+    font-size: 20px;
+    font-family: Roboto;
+}
+
+.jobdetails {
+    padding: 20px;
+    margin: 10px;
+}
+
+.jobsheading {
+    font-size: 34px;
+    color: blue;
+    font-weight: bold;
+
+}
+
+.jobspara {
+    font-size: 20px;
+}
+
+.company-image {
+    width: 100%;
+}
+
+.company-name {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.company-role {
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.company-salary {
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.applybutton {
+    text-align: center;
+}
+
+.Coursesection-heading {
+    font-size: 34px;
+    color: blue;
+    font-weight: bold;
+
+}
+
+.courseimage {
+    width: 100%;
+}
+
+.course-details {
+    text-align: center;
+}
+
+.course-name {
+    font-size: 40px;
+
+}
+
+.follow-us-icon-container {
+    background-color: lightblue;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    margin: 15px;
+    padding-top: 28px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 32px;
+    color: black;
+}
+
+.heading {
+    color: blue;
+    font-weight: bold;
+}
+
+.footer-section {
+    background-color: lightblue;
+}
+
+.footer-section-mail-id {
+    color: black;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: black;
+    font-family: "Roboto";
+    font-size: 14px;
+}
